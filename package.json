@@ -1,0 +1,14 @@
+{
+  "name": "pollster",
+  "version": "1.0.0",
+  "description": "A Discord bot for creating polls and surveys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Oleksii Sytar",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
